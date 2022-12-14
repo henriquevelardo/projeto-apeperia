@@ -1,2 +1,2 @@
 # projeto-apeperia
-Projeto acadêmico com foco em layout responsivo mobile
+Arquivos do projeto para a Apeperia
